@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 - 🔭 I’m currently working on **Advanced Python**
 
-- 🌱 I’m currently learning ** Java and Data Structures and Algorithms**
+- 🌱 I’m currently learning **Java and Data Structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kranthikumar-veggalam](https://github.com/Kranthikumar-veggalam)
 
