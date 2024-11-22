@@ -20,7 +20,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/kranthikumarveggalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kranthikumarveggalam" height="30" width="40" /></a>
-<a href="https://twitter.com/kranthiveggalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kranthiveggalam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kranthikumarveggalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kranthikumarveggalam" height="30" width="40" /></a>
 <a href="https://instagram.com/kranthikumar_veggalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kranthikumar_veggalam" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kranthikumar04" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kranthikumar04" height="30" width="40" /></a>
